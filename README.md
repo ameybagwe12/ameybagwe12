@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github_image.png)
 <h1 align="center">Hi 👋, I'm Amey Bagwe</h1>
 <h3 align="center">A passionate Web/App Developer from India</h3>
 
