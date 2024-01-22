@@ -19,5 +19,4 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ameybagwe12&theme=dark&hide_border=false)<br/>
-<img src="https://raw.githubusercontent.com/ameybagwe12/ameybagwe12/output/snake.svg" alt="Snake animation" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
